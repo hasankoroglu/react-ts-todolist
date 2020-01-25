@@ -24,6 +24,7 @@ const App: React.FC = () => {
     <div className="App">
       <NewTodo onAddTodo={todoAddHandler} />
       <TodoList items={todos} onDeleteTodo={todoDeleteHandler} />
+      <a href="https://github.com/hasankoroglu/react-ts-todolist">https://github.com/hasankoroglu/react-ts-todolist</a>
     </div>
   );
 };
