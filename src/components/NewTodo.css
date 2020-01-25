@@ -25,12 +25,12 @@ input {
 
 input:focus {
   outline: none;
-  border-color: #50005a;
+  border-color: darkorange;
 }
 
 button {
-  background: #50005a;
-  border: 1px solid #50005a;
+  background: darkorange;
+  border: 1px solid darkorange;
   color: white;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
@@ -42,6 +42,6 @@ button:focus {
 
 button:hover,
 button:active {
-  background: #6a0a77;
-  border-color: #6a0a77;
+  background: orange;
+  border-color: orange;
 }
