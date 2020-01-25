@@ -1,2 +1,2 @@
 # react-ts-todolist
-a todolist developed wtih ract and typescript
+a todolist developed with react and typescript
